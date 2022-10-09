@@ -1,3 +1,14 @@
 <div class="body container-fluid">
-  <app-header></app-header>
+  <div class="row">
+    <app-header class="col-3"></app-header>
+    <div class="main col-9">
+      <router-outlet></router-outlet>
+    </div>
+  </div>
 </div>
+
+<style>
+  app-header {
+    margin: 0px;
+  }
+</style>
