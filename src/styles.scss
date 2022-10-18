@@ -1,4 +1,25 @@
 /* You can add global styles to this file, and also import other style files */
 
 /* Importing Bootstrap SCSS file. */
-@import '~bootstrap/scss/bootstrap';
+@import "~bootstrap/scss/bootstrap";
+
+.radio-btns {
+  &:hover .radio-btns__btn:not(:hover) {
+    filter: grayscale(100%);
+
+    &::after {
+      background-color: rgba(#000, 0.5);
+    }
+  }
+}
+
+.radio-btns__btn {
+  transition: 0.3s;
+
+  &::after {
+    content: "";
+
+    background-color: rgba(#000, 0);
+    transition: 0.3s;
+  }
+}

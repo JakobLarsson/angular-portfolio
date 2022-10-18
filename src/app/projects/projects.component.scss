@@ -1,21 +1,6 @@
 .wrapper {
   padding-top: 40px;
-  &:hover .radio-btns__btn:not(:hover) {
-    filter: grayscale(100%);
-
-    &::after {
-      background-color: rgba(#000, 0.5);
-    }
-  }
 }
 
 .row .radio-btns__btn {
-  transition: 0.3s;
-
-  &::after {
-    content: "";
-
-    background-color: rgba(#000, 0);
-    transition: 0.3s;
-  }
 }
