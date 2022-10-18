@@ -1,9 +1,17 @@
 .container {
-  border: 1px solid orange;
 }
 
 .img {
-  background-color: red;
   display: block;
   height: 250px;
+
+  &:hover .radio-btns__btn:not(:hover) {
+    filter: grayscale(100%);
+
+    &::after {
+      background-color: rgba(#000, 0.5);
+    }
+  }
 }
+
+//anton kristell original page
