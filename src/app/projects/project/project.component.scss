@@ -4,6 +4,9 @@
 .img {
   display: block;
   height: 250px;
+  &:hover {
+    cursor: pointer;
+  }
 }
 
 //anton kristell original page
