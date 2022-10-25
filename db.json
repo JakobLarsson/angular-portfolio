@@ -1,0 +1,38 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "samekotvätthall.se",
+      "img": "https://www.google.se/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fwallpaper&psig=AOvVaw3TaD9K8Inlij_zBAD3HTLP&ust=1666713374554000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOCeiKed-foCFQAAAAAdAAAAABAD",
+      "date": "2022-06-15",
+      "description": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 2,
+      "title": "Portfolio webbsida",
+      "img": "https://www.google.se/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fwallpaper&psig=AOvVaw3TaD9K8Inlij_zBAD3HTLP&ust=1666713374554000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOCeiKed-foCFQAAAAAdAAAAABAD",
+      "date": "2022-07-15",
+      "description": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 3,
+      "title": "Smejd chattapp",
+      "date": "2022-07-15",
+      "img": "https://www.google.se/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fwallpaper&psig=AOvVaw3TaD9K8Inlij_zBAD3HTLP&ust=1666713374554000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOCeiKed-foCFQAAAAAdAAAAABAD",
+      "description": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 4,
+      "title": "Bjorn Deicher",
+      "date": "2022-07-15",
+      "img": "https://www.google.se/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fwallpaper&psig=AOvVaw3TaD9K8Inlij_zBAD3HTLP&ust=1666713374554000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOCeiKed-foCFQAAAAAdAAAAABAD",
+      "description": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 5,
+      "title": "Eltjänster Vätterbygden AB",
+      "date": "2022-07-15",
+      "description": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    }
+  ]
+}

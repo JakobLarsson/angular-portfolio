@@ -1,13 +1,9 @@
 <div class="wrapper">
   <div class="row wrapper radio-btns">
-    <app-project class="col-4"></app-project>
-    <app-project class="col-4"></app-project>
-    <app-project class="col-4"></app-project>
-    <app-project class="col-4"></app-project>
-    <app-project class="col-4"></app-project>
-    <app-project class="col-4"></app-project>
-    <app-project class="col-4"></app-project>
-    <app-project class="col-4"></app-project>
-    <app-project class="col-4"></app-project>
+    <app-project
+      *ngFor="let project of projects"
+      class="col-4"
+      [project]="project"
+    ></app-project>
   </div>
 </div>
