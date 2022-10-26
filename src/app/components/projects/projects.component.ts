@@ -1,5 +1,6 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Input } from '@angular/core';
 import { Projects } from 'src/app/projects';
+
 import { ProjectService } from 'src/app/services/project.service';
 
 @Component({
